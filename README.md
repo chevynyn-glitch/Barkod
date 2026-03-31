@@ -1,0 +1,2 @@
+# Barkod
+Barkod Fiyat Okuyucu
